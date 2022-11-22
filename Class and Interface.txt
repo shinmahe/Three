@@ -1,0 +1,24 @@
+
+
+
+
+
+Java Class                            Java Interface              Java Abstract Class                               Java Exception
+                                                                                                                                           compile             Run-Time
+
+                                                                                                                                                                 StringIndexOutOfBounds
+String                                                                                                                                                           
+                                                                                                                                                                  ArrayIndexOutOfBounds
+StringBuffer                                                                                                                                          
+                                                                                                                                                                  ClassCast                          
+StringBuilder
+
+Scanner                                                                                                                                                   InputMismatch
+
+System								                NullPointer
+
+Arrays								                IndexOutOfBounds
+
+Collections                                                                                                                                              Arithmetic
+
+ 								
